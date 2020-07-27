@@ -1,0 +1,12 @@
+[
+    {"year": 1880, "sea_level": 0},
+    {"year": 1890, "sea_level": 1},
+    {"year": 1900, "sea_level": 2},
+    {"year": 1910, "sea_level": 3},
+    {"year": 1920, "sea_level": 4},
+    {"year": 1930, "sea_level": 2},
+    {"year": 1940, "sea_level": 6},
+    {"year": 1950, "sea_level": 7},
+    {"year": 1960, "sea_level": 4}
+  ]
+  

@@ -1,0 +1,14 @@
+[
+    {"year": 1880, "anomaly": -0.2},
+    {"year": 1890, "anomaly": -0.1},
+    {"year": 1900, "anomaly": 0.0},
+    {"year": 1910, "anomaly": 0.1},
+    {"year": 1920, "anomaly": 0.2},
+    {"year": 1930, "anomaly": 0.1},
+    {"year": 1940, "anomaly": 0.3},
+    {"year": 1950, "anomaly": 0.4},
+    {"year": 1960, "anomaly": 0.5},
+    {"year": 1970, "anomaly": 0.6},
+    {"year": 1980, "anomaly": 0.7}
+  ]
+  

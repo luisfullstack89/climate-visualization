@@ -1,0 +1,18 @@
+[
+    {"year": 1880, "temperature": -0.2, "co2": 300},
+    {"year": 1890, "temperature": -0.1, "co2": 305},
+    {"year": 1900, "temperature": 0.0, "co2": 310},
+    {"year": 1910, "temperature": 0.1, "co2": 315},
+    {"year": 1920, "temperature": 0.2, "co2": 320},
+    {"year": 1930, "temperature": 0.1, "co2": 325},
+    {"year": 1940, "temperature": 0.3, "co2": 330},
+    {"year": 1950, "temperature": 0.4, "co2": 335},
+    {"year": 1960, "temperature": 0.5, "co2": 340},
+    {"year": 1970, "temperature": 0.6, "co2": 345},
+    {"year": 1980, "temperature": 0.7, "co2": 350},
+    {"year": 1990, "temperature": 0.8, "co2": 355},
+    {"year": 2000, "temperature": 0.9, "co2": 360},
+    {"year": 2010, "temperature": 1.0, "co2": 365},
+    {"year": 2020, "temperature": 1.1, "co2": 370}
+  ]
+  
